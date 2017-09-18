@@ -2,3 +2,5 @@ bin/
 lib/
 include/
 web_server/node_modules
+pip-selfcheck.json
+test.csv
