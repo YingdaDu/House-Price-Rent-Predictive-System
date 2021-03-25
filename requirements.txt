@@ -30,7 +30,7 @@ pymongo==3.5.1
 pyparsing==2.0.3
 python-dateutil==2.4.2
 python-jsonrpc==0.10.0
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 scandir==1.5
 simplegeneric==0.8.1
