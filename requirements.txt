@@ -10,7 +10,7 @@ httpclient==0.0.2
 idna==2.6
 ipython==5.5.0
 ipython-genutils==0.2.0
-lxml==4.0.0
+lxml==4.6.5
 mongoengine==0.13.0
 munch==2.2.0
 numpy==1.9.2
