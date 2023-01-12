@@ -13,7 +13,7 @@ ipython-genutils==0.2.0
 lxml==4.0.0
 mongoengine==0.13.0
 munch==2.2.0
-numpy==1.9.2
+numpy==1.22.0
 osxrelocator==1.0.1
 pandas==0.16.2
 pathlib2==2.3.0
